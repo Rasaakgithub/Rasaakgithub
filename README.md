@@ -1,4 +1,4 @@
-# Hi, I'm Mohamet Ali 👋
+# Hi, I'm MohameD Ali 👋
 ### Full-Stack & AI Application Engineer | Flutter · React · Python
 📍 Hargeysa, Somaliland 🇸🇴
 
