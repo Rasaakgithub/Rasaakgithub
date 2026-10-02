@@ -100,6 +100,6 @@ I'm adding AI to the products I already build:
 ## 📫 Connect With Me
 
 - 💻 GitHub: [github.com/Rasaakgithub](https://github.com/Rasaakgithub)
-- 📧 Email: your@email.com
+- 📧 Email: hamsaaar@email.com
 
 ⭐ Feel free to explore my repositories.
